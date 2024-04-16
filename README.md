@@ -1,1 +1,1 @@
-WordFinder
+Wordfinder
