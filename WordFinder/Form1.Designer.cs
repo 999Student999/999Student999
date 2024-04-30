@@ -132,7 +132,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(82, 488);
-            this.label1.Name = "label1";
+            this.label1.Name = "Количество: ";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 17;
             this.label1.Text = "label1";
